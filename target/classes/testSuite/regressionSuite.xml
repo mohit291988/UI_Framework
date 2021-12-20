@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<suite name = "RegressionSuite">
+	
+	
+	<!-- 
+	<Listeners>
+		<Listener class-name = "">	</Listener>
+	</Listeners>
+	-->
+	<test name = "First Test">
+		
+		
+	<classes>
+      <class name="com.uiFramework.A"/>
+    </classes>
+		
+		
+		
+	</test>
+	
+	<test name = "SecondTest">
+		<classes>
+			<class name ="com.uiFramework.B"></class>
+		</classes>
+	</test>
+	
+	<test name = "ThirdTest">
+		<classes>
+			<class name ="com.uiFramework.C"></class>
+		</classes>
+	</test>
+	
+</suite>
