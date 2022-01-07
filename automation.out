@@ -7,3 +7,34 @@
 2021-12-10 00:12:710 INFO  LoggerHelper:29 - log is configured
 2021-12-10 00:12:712 INFO  LoggerHelper:30 - log is configured
 2021-12-10 00:12:712 INFO  LoggerHelper:31 - log is configured
+2021-12-28 00:12:272 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:428 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:487 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:685 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:830 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:885 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:43 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:79 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:108 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:412 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:449 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:483 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:597 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:642 INFO  ExcelHelper:97 - result updated..
+2021-12-28 00:12:680 INFO  ExcelHelper:97 - result updated..
+2022-01-05 19:01:411 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:648 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:699 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:742 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:543 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:777 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:875 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:972 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:108 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:307 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:357 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:395 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:431 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:462 INFO  VerificationHelper:28 - making script FAIL
+2022-01-05 19:01:491 INFO  VerificationHelper:22 - making script PASS
+2022-01-05 19:01:518 INFO  VerificationHelper:28 - making script FAIL

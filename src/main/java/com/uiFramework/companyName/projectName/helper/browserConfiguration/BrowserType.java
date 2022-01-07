@@ -1,5 +1,10 @@
 package com.uiFramework.companyName.projectName.helper.browserConfiguration;
 
-public class BrowserHelper {
+public enum BrowserType {
+	
+	Firefox,
+	Chrome,
+	Edge,
+	Iexplorer
 
 }

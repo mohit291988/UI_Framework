@@ -68,6 +68,7 @@ public class AlertHelper {
 		{
 			log.info("alert is not present");
 		}
+		return false;
 	}
 	
 	public boolean dismissAlertIfPresent( )
@@ -80,6 +81,7 @@ public class AlertHelper {
 		{
 			log.info("alert is not present");
 		}
+		return false;
 	}
 	
 	public void acceptPrompt()
@@ -87,7 +89,7 @@ public class AlertHelper {
 		if(isAlertPresent())
 		{
 			Alert alert = getAlert();
-			String text;
+			String text = null;
 			alert.sendKeys(text);
 			alert.accept();
 			log.info("alert text:"+alert.getText());

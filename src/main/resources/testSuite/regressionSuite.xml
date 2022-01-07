@@ -11,14 +11,9 @@
 	</Listeners>
 	-->
 	<test name = "First Test">
-		
-		
-	<classes>
-      <class name="com.uiFramework.A"/>
-    </classes>
-		
-		
-		
+		<classes>
+      		<class name="com.uiFramework.A"/>
+    	</classes>
 	</test>
 	
 	<test name = "SecondTest">
